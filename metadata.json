@@ -1,0 +1,5 @@
+{
+  "name": "React Account & Product Manager",
+  "description": "A user account system with login, registration, and full CRUD product management. Data is stored in sessionStorage and clears when the browser is closed.",
+  "requestFramePermissions": []
+}
